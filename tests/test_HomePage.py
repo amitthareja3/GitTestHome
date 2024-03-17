@@ -38,3 +38,6 @@ class TestHomePage(BaseClass):
     def getdata(self, request):
         return request.param
 
+    @pytest.fixture2(params=HomePageData.getTestData("Testcase2"))
+    def getdata(self, request):
+        return request.param

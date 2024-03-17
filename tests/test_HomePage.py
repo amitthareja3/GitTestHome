@@ -23,6 +23,8 @@ class TestHomePage(BaseClass):
         alertText = homePage.getSuccessMessage().text
 
         assert ("Success" in alertText)
+        alertText1 = homePage.getSuccessMessage().text
+
         self.driver.refresh()
 
     # @pytest.fixture(params=[("Rahul","Shetty","Male"),("Anushika","Shetty","Female")])  # Now this way is not used as data is

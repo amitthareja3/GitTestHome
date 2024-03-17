@@ -1,0 +1,149 @@
+2024-03-10 21:51:28,818 : INFO :test_formSubmission: First Name isRahul
+2024-03-10 21:51:30,067 : INFO :test_formSubmission: First Name isAnushika
+2024-03-10 21:51:30,067 : INFO :test_formSubmission: First Name isAnushika
+2024-03-10 21:51:31,398 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 21:51:31,398 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 21:51:31,398 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 22:52:54,610 : INFO :test_formSubmission: First Name isRahul
+2024-03-10 22:52:56,395 : INFO :test_formSubmission: First Name isAnushika
+2024-03-10 22:52:56,395 : INFO :test_formSubmission: First Name isAnushika
+2024-03-10 22:52:57,769 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 22:52:57,769 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 22:52:57,769 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 22:53:08,533 : INFO :test_e2e: getting all the card titles
+2024-03-10 22:53:08,570 : INFO :test_e2e: iphone X
+2024-03-10 22:53:08,584 : INFO :test_e2e: Samsung Note 8
+2024-03-10 22:53:08,593 : INFO :test_e2e: Nokia Edge
+2024-03-10 22:53:08,630 : INFO :test_e2e: Blackberry
+2024-03-10 22:53:09,389 : INFO :test_e2e: Entering country name as ind
+2024-03-10 22:53:15,254 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-10 22:56:32,080 : INFO :test_formSubmission: First Name isRahul
+2024-03-10 22:56:33,315 : INFO :test_formSubmission: First Name isAnushika
+2024-03-10 22:56:33,315 : INFO :test_formSubmission: First Name isAnushika
+2024-03-10 22:56:34,711 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 22:56:34,711 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 22:56:34,711 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 22:56:44,791 : INFO :test_e2e: getting all the card titles
+2024-03-10 22:56:44,924 : INFO :test_e2e: iphone X
+2024-03-10 22:56:45,067 : INFO :test_e2e: Samsung Note 8
+2024-03-10 22:56:45,105 : INFO :test_e2e: Nokia Edge
+2024-03-10 22:56:45,148 : INFO :test_e2e: Blackberry
+2024-03-10 22:56:45,954 : INFO :test_e2e: Entering country name as ind
+2024-03-10 22:56:51,809 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-10 23:18:51,700 : INFO :test_formSubmission: First Name isRahul
+2024-03-10 23:18:53,031 : INFO :test_formSubmission: First Name isAnushika
+2024-03-10 23:18:53,031 : INFO :test_formSubmission: First Name isAnushika
+2024-03-10 23:18:54,526 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 23:18:54,526 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 23:18:54,526 : INFO :test_formSubmission: First Name isMohan
+2024-03-10 23:19:04,348 : INFO :test_e2e: getting all the card titles
+2024-03-10 23:19:04,378 : INFO :test_e2e: iphone X
+2024-03-10 23:19:04,424 : INFO :test_e2e: Samsung Note 8
+2024-03-10 23:19:04,461 : INFO :test_e2e: Nokia Edge
+2024-03-10 23:19:04,549 : INFO :test_e2e: Blackberry
+2024-03-10 23:19:05,602 : INFO :test_e2e: Entering country name as ind
+2024-03-10 23:19:11,438 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-11 20:56:32,561 : INFO :test_formSubmission: First Name isRahul
+2024-03-11 20:56:33,058 : INFO :test_formSubmission: First Name isAnushika
+2024-03-11 20:56:33,058 : INFO :test_formSubmission: First Name isAnushika
+2024-03-11 20:56:33,569 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 20:56:33,569 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 20:56:33,569 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 20:56:37,093 : INFO :test_e2e: getting all the card titles
+2024-03-11 20:56:37,137 : INFO :test_e2e: iphone X
+2024-03-11 20:56:37,150 : INFO :test_e2e: Samsung Note 8
+2024-03-11 20:56:37,162 : INFO :test_e2e: Nokia Edge
+2024-03-11 20:56:37,175 : INFO :test_e2e: Blackberry
+2024-03-11 20:56:37,354 : INFO :test_e2e: Entering country name as ind
+2024-03-11 20:56:42,630 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-11 20:56:51,559 : INFO :test_formSubmission: First Name isRahul
+2024-03-11 20:56:52,041 : INFO :test_formSubmission: First Name isAnushika
+2024-03-11 20:56:52,041 : INFO :test_formSubmission: First Name isAnushika
+2024-03-11 20:56:52,519 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 20:56:52,519 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 20:56:52,519 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 20:56:55,913 : INFO :test_e2e: getting all the card titles
+2024-03-11 20:56:55,967 : INFO :test_e2e: iphone X
+2024-03-11 20:56:55,986 : INFO :test_e2e: Samsung Note 8
+2024-03-11 20:56:56,000 : INFO :test_e2e: Nokia Edge
+2024-03-11 20:56:56,011 : INFO :test_e2e: Blackberry
+2024-03-11 20:56:56,171 : INFO :test_e2e: Entering country name as ind
+2024-03-11 20:57:01,482 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-11 21:10:03,629 : INFO :test_formSubmission: First Name isRahul
+2024-03-11 21:10:04,154 : INFO :test_formSubmission: First Name isAnushika
+2024-03-11 21:10:04,154 : INFO :test_formSubmission: First Name isAnushika
+2024-03-11 21:10:04,803 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 21:10:04,803 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 21:10:04,803 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 21:10:08,375 : INFO :test_e2e: getting all the card titles
+2024-03-11 21:10:08,430 : INFO :test_e2e: iphone X
+2024-03-11 21:10:08,448 : INFO :test_e2e: Samsung Note 8
+2024-03-11 21:10:08,463 : INFO :test_e2e: Nokia Edge
+2024-03-11 21:10:08,481 : INFO :test_e2e: Blackberry
+2024-03-11 21:10:08,713 : INFO :test_e2e: Entering country name as ind
+2024-03-11 21:10:14,063 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-11 23:38:28,549 : INFO :test_formSubmission: First Name isRahul
+2024-03-11 23:38:29,889 : INFO :test_formSubmission: First Name isAnushika
+2024-03-11 23:38:29,889 : INFO :test_formSubmission: First Name isAnushika
+2024-03-11 23:38:31,273 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 23:38:31,273 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 23:38:31,273 : INFO :test_formSubmission: First Name isMohan
+2024-03-11 23:38:41,091 : INFO :test_e2e: getting all the card titles
+2024-03-11 23:38:41,150 : INFO :test_e2e: iphone X
+2024-03-11 23:38:41,166 : INFO :test_e2e: Samsung Note 8
+2024-03-11 23:38:41,184 : INFO :test_e2e: Nokia Edge
+2024-03-11 23:38:41,216 : INFO :test_e2e: Blackberry
+2024-03-11 23:38:41,988 : INFO :test_e2e: Entering country name as ind
+2024-03-11 23:38:47,814 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-12 00:00:28,881 : INFO :test_formSubmission: First Name isRahul
+2024-03-12 00:00:30,187 : INFO :test_formSubmission: First Name isAnushika
+2024-03-12 00:00:30,187 : INFO :test_formSubmission: First Name isAnushika
+2024-03-12 00:00:31,662 : INFO :test_formSubmission: First Name isMohan
+2024-03-12 00:00:31,662 : INFO :test_formSubmission: First Name isMohan
+2024-03-12 00:00:31,662 : INFO :test_formSubmission: First Name isMohan
+2024-03-12 00:00:41,691 : INFO :test_e2e: getting all the card titles
+2024-03-12 00:00:41,721 : INFO :test_e2e: iphone X
+2024-03-12 00:00:41,820 : INFO :test_e2e: Samsung Note 8
+2024-03-12 00:00:41,980 : INFO :test_e2e: Nokia Edge
+2024-03-12 00:00:42,006 : INFO :test_e2e: Blackberry
+2024-03-12 00:00:42,910 : INFO :test_e2e: Entering country name as ind
+2024-03-12 00:00:48,764 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-12 00:01:10,579 : INFO :test_formSubmission: First Name isRahul
+2024-03-12 00:01:11,070 : INFO :test_formSubmission: First Name isAnushika
+2024-03-12 00:01:11,070 : INFO :test_formSubmission: First Name isAnushika
+2024-03-12 00:01:11,526 : INFO :test_formSubmission: First Name isMohan
+2024-03-12 00:01:11,526 : INFO :test_formSubmission: First Name isMohan
+2024-03-12 00:01:11,526 : INFO :test_formSubmission: First Name isMohan
+2024-03-12 00:01:15,250 : INFO :test_e2e: getting all the card titles
+2024-03-12 00:01:15,302 : INFO :test_e2e: iphone X
+2024-03-12 00:01:15,319 : INFO :test_e2e: Samsung Note 8
+2024-03-12 00:01:15,335 : INFO :test_e2e: Nokia Edge
+2024-03-12 00:01:15,352 : INFO :test_e2e: Blackberry
+2024-03-12 00:01:15,514 : INFO :test_e2e: Entering country name as ind
+2024-03-12 00:01:20,793 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-12 00:12:05,751 : INFO :test_formSubmission: First Name isRahul
+2024-03-12 00:12:06,225 : INFO :test_formSubmission: First Name isAnushika
+2024-03-12 00:12:06,225 : INFO :test_formSubmission: First Name isAnushika
+2024-03-12 00:12:06,701 : INFO :test_formSubmission: First Name isMohan
+2024-03-12 00:12:06,701 : INFO :test_formSubmission: First Name isMohan
+2024-03-12 00:12:06,701 : INFO :test_formSubmission: First Name isMohan
+2024-03-12 00:12:10,187 : INFO :test_e2e: getting all the card titles
+2024-03-12 00:12:10,233 : INFO :test_e2e: iphone X
+2024-03-12 00:12:10,251 : INFO :test_e2e: Samsung Note 8
+2024-03-12 00:12:10,263 : INFO :test_e2e: Nokia Edge
+2024-03-12 00:12:10,278 : INFO :test_e2e: Blackberry
+2024-03-12 00:12:10,476 : INFO :test_e2e: Entering country name as ind
+2024-03-12 00:12:15,775 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-03-13 14:49:03,594 : INFO :test_formSubmission: First Name isRahul
+2024-03-13 14:49:44,190 : INFO :test_formSubmission: First Name isRahul
+2024-03-14 01:18:09,991 : INFO :test_formSubmission: First Name isRahul

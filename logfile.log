@@ -1,0 +1,4 @@
+2024-03-10 19:44:16,833 : INFO :test_e2e: getting all the card titles
+2024-03-10 19:44:17,814 : INFO :test_e2e: Entering country name as ind
+2024-03-10 19:44:24,254 : INFO :test_e2e: Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
